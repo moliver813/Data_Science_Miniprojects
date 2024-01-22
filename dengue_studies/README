@@ -1,0 +1,8 @@
+These notebooks started from studying the Kaggle dataset epidemy (https://www.kaggle.com/datasets/arashnic/epidemy) on Dengue fever rates in two cities. 
+The data includes the weekly rates of measured dengue fever and a range of measurments relating to the local weather. 
+
+In the notebooks dengue-study, dengue-study-v2, dengue-study-v3, and dengue-study-v4 I practiced some basics of exploratory data analysis and time series modeling.
+While doing these studies, I was inspired to try and create Monte-Carlo simulations of the spread of disease.
+
+A part of the inspiration for this was to create a numerical model (included in infectious-disease-mc1) that could be applied to modeling the Dengue fever data set, but I have not yet explored the application of the model. 
+So far, I have created a dynamic simulation that does resemble the spread of a disease.
